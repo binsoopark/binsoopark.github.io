@@ -19,7 +19,7 @@ skin: "/assets/css/skins/dark.css"
 # locale: en-US
 locale: ko-KR
 title: "binsoopark github page by jekyll"
-description: "당신은 수빈의 Github page를 보고 있습니다."
+description: "당신은 수빈의 Github page를 보고 있습니다.<br/>함께하시죠!"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
