@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-skin: "/assets/css/skins/default.css"
+skin: "/assets/css/skins/dark.css"
 locale: ko-KR
 title: binsoopark Github page by jekyll
 email: binsoopark@gmail.com
@@ -123,4 +123,3 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
-theme: jekyll-theme-merlot
